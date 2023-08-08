@@ -2,7 +2,7 @@
 
 🎮 Welcome to the 2048 Game Repository! 🕹️
 
-This repository houses my implementation of the classic 2048 game. As a passionate game developer, I've crafted this project to provide a digital space where players can experience the joy of merging tiles and strategizing their way to the coveted 2048 tile.
+This repository houses my implementation of the classic 2048 game. This project to provide a digital space where players can experience the joy of merging tiles and strategizing their way to the coveted 2048 tile.
 
 🚀 **Features:**
 
